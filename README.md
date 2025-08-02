@@ -5,12 +5,6 @@ This project is a **Streamlit-based web application** that predicts the probabil
 
 ---
 
-## 🚀 Demo
-
-
-
----
-
 ## 📊 Features
 
 - Predicts customer churn probability with a trained ANN model.
